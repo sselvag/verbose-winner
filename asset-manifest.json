@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/verbose-winner/static/css/main.3da993a6.chunk.css",
+    "main.js": "/verbose-winner/static/js/main.674fe1cf.chunk.js",
+    "main.js.map": "/verbose-winner/static/js/main.674fe1cf.chunk.js.map",
+    "runtime-main.js": "/verbose-winner/static/js/runtime-main.d9d3d2e8.js",
+    "runtime-main.js.map": "/verbose-winner/static/js/runtime-main.d9d3d2e8.js.map",
+    "static/css/2.984f751f.chunk.css": "/verbose-winner/static/css/2.984f751f.chunk.css",
+    "static/js/2.93b4f74a.chunk.js": "/verbose-winner/static/js/2.93b4f74a.chunk.js",
+    "static/js/2.93b4f74a.chunk.js.map": "/verbose-winner/static/js/2.93b4f74a.chunk.js.map",
+    "static/js/3.e4d1771a.chunk.js": "/verbose-winner/static/js/3.e4d1771a.chunk.js",
+    "static/js/3.e4d1771a.chunk.js.map": "/verbose-winner/static/js/3.e4d1771a.chunk.js.map",
+    "index.html": "/verbose-winner/index.html",
+    "static/css/2.984f751f.chunk.css.map": "/verbose-winner/static/css/2.984f751f.chunk.css.map",
+    "static/css/main.3da993a6.chunk.css.map": "/verbose-winner/static/css/main.3da993a6.chunk.css.map",
+    "static/js/2.93b4f74a.chunk.js.LICENSE.txt": "/verbose-winner/static/js/2.93b4f74a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9d3d2e8.js",
+    "static/css/2.984f751f.chunk.css",
+    "static/js/2.93b4f74a.chunk.js",
+    "static/css/main.3da993a6.chunk.css",
+    "static/js/main.674fe1cf.chunk.js"
+  ]
+}
