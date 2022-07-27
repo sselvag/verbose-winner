@@ -1,0 +1,18 @@
+[
+    {
+    "id": 1,
+    "name": "Conversation Starters",
+    "image": "././public/images/conversation-starters.png",
+    "github": "https://github.com/danielfu13/flying-kittens17",
+    "deploy": "https://danielfu13.github.io/flying-kittens17/",
+    "technologies": "HTML, CSS, JavaScript"
+    },
+    {
+        "id": 2,
+        "name": "Recipes for Dinner",
+        "image": "././public/images/recipes-for-dinner.png",
+        "github": "https://github.com/Ydennekrf/Grocery-List",
+        "deploy": "https://just-acorn.herokuapp.com/",
+        "technologies": "JavaScript, Handlebars, CSS"
+    }
+]
