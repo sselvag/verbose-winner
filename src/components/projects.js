@@ -1,19 +1,39 @@
 import React from 'react';
 
+const info = {
+    display: 'flex',
+    flexDirection: 'column',
+    padding: '10px'
+}
+
+const titleStyle = {
+    backgroundColor: 'purple',
+    padding: '10px'
+}
+
+const linkStyle = {
+    color: 'purple'
+}
+
 function ProjectCards(props) {
     return (
         <div className="card">
             <div className="img-container">
-            <img class="projectImage" alt={props.name} src={props.image}/>
+                <img class="projectImage" alt={props.name} src={props.image}/>
             </div>
 
             <div className="cardContent">
-                <p className="projectTitle" id="projectTitle">{props.name}</p>
-                <p className="projectInfo" id="projectInfo"></p>
-                <button class="btn btn-light"><a href={props.deploy}>Deployed Application</a></button>
-                <button class="btn btn-light"><a href={props.github}>Application Repository</a></button>
+                <h2 className="projectTitle" id="projectTitle" style={titleStyle}>{props.name}</h2>
+                <div className="img-container">
+                    <img class="projectImage" alt={props.name} src={props.image}/>
+                </div>
+                <p className="projectInfo" id="projectInfo" style={info}></p>
+                <button class="btn btn-dark"><a href={props.deploy} style={linkStyle}>Deployed Application</a></button>
+                <br></br>
+                <button class="btn btn-dark"><a href={props.github} style={linkStyle}>Application Repository</a></button>
                 <p className="technologies">
-                    ({props.technologies})
+                <h4>Techologies Used: </h4>
+                    {props.technologies}
                 </p>
             </div>
         </div>
