@@ -40,4 +40,10 @@ header {
 .navbar-brand {
   color: rgb(82, 10, 82);
 }
+
+.active {
+  background-color: white;
+  font-weight: bold;
+}
+
   

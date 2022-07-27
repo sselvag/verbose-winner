@@ -39,4 +39,12 @@
         "deploy": "https://sselvag.github.io/cautious-octo-pancake/",
         "technologies": "Moment.js, jQuery, Third Party APIs"
     },
+    {
+        "id": 6,
+        "name": "Project 3",
+        "image": "https://media.istockphoto.com/vectors/ecology-and-sustainable-business-green-idea-or-protection-against-vector-id1337193908?b=1&k=20&m=1337193908&s=612x612&w=0&h=vsPiP4Hvw_0ZfJuq3cB42vR_Olbqzw_lH3f4kZ0Hug0=",
+        "github": "https://github.com/sselvag/",
+        "deploy": "https://github.com/sselvag/",
+        "technologies": "MERN, GraphQL, MongoDB"
+    }
 ]
