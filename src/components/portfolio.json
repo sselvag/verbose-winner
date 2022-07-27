@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "Conversation Starters",
-    "image": "././public/images/conversation-starters.png",
+    "image": "https://www.scienceofpeople.com/wp-content/uploads/2014/09/1314878_HowtoMakeFriendsGuideImages1250x650V11_030322.jpg",
     "github": "https://github.com/danielfu13/flying-kittens17",
     "deploy": "https://danielfu13.github.io/flying-kittens17/",
     "technologies": "HTML, CSS, JavaScript"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Recipes for Dinner",
-        "image": "././public/images/recipes-for-dinner.png",
+        "image": "https://thumbs.dreamstime.com/b/greeting-card-lets-cook-calligraphy-lettering-vector-text-food-blog-kitchen-hand-drawn-cute-quote-design-greeting-card-186499715.jpg",
         "github": "https://github.com/Ydennekrf/Grocery-List",
         "deploy": "https://just-acorn.herokuapp.com/",
         "technologies": "JavaScript, Handlebars, CSS"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Note Taker",
-        "image": "././public/images/note-taker.png",
+        "image": "https://remote-tools-images.s3.amazonaws.com/best+note+taking+tools.png",
         "github": "https://github.com/sselvag/furry-robot",
         "deploy": "https://furry-robot.herokuapp.com/notes",
         "technologies": "Node-js, Express-js, API routing"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Team Profile Generator",
-        "image": "././public/images/team-profile-generator.png",
+        "image": "https://img.freepik.com/premium-vector/office-workers-avatars-round-business-men-women-portraits-professional-worker-avatar-employee-people-flat-illustration-set-young-people-social-media-photo-icons-pack_229548-68.jpg?w=2000",
         "github": "https://github.com/sselvag/crispy-winner",
         "deploy": "https://drive.google.com/file/d/1OgawVcvonQCSwY4EJFzPXi8abMU4nxSM/view?usp=sharing",
         "technologies": "Node-js, Inquirer, Jest"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Work Day Scheduler",
-        "image": "././public/images/team-profile-generator.png",
+        "image": "https://thumbs.dreamstime.com/b/working-day-flat-cartoon-vector-illustration-stopwatch-tasks-officw-worker-hurrying-to-job-sitting-computer-having-176458611.jpg",
         "github": "https://github.com/sselvag/cautious-octo-pancake",
         "deploy": "https://sselvag.github.io/cautious-octo-pancake/",
         "technologies": "Moment.js, jQuery, Third Party APIs"
