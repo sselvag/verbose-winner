@@ -9,10 +9,9 @@ function ProjectCards(props) {
 
             <div className="cardContent">
                 <p className="projectTitle" id="projectTitle">{props.name}</p>
-                <p className="projectInfo" id="projectInfo">
-                    <a href={props.deploy}><img src="" alt="deployed site" id="project-link"></img></a>
-                    <a href={props.repository}><img src="" alt="project repo" id="project-link"></img></a>
-                </p>
+                <p className="projectInfo" id="projectInfo"></p>
+                <button class="btn btn-light"><a href={props.deploy}>Deployed Application</a></button>
+                <button class="btn btn-light"><a href={props.github}>Application Repository</a></button>
                 <p className="technologies">
                     ({props.technologies})
                 </p>
