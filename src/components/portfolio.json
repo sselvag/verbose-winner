@@ -14,5 +14,29 @@
         "github": "https://github.com/Ydennekrf/Grocery-List",
         "deploy": "https://just-acorn.herokuapp.com/",
         "technologies": "JavaScript, Handlebars, CSS"
-    }
+    },
+    {
+        "id": 3,
+        "name": "Note Taker",
+        "image": "././public/images/note-taker.png",
+        "github": "https://github.com/sselvag/furry-robot",
+        "deploy": "https://furry-robot.herokuapp.com/notes",
+        "technologies": "Node-js, Express-js, API routing"
+    },
+    {
+        "id": 4,
+        "name": "Team Profile Generator",
+        "image": "././public/images/team-profile-generator.png",
+        "github": "https://github.com/sselvag/crispy-winner",
+        "deploy": "https://drive.google.com/file/d/1OgawVcvonQCSwY4EJFzPXi8abMU4nxSM/view?usp=sharing",
+        "technologies": "Node-js, Inquirer, Jest"
+    },
+    {
+        "id": 5,
+        "name": "Work Day Scheduler",
+        "image": "././public/images/team-profile-generator.png",
+        "github": "https://github.com/sselvag/cautious-octo-pancake",
+        "deploy": "https://sselvag.github.io/cautious-octo-pancake/",
+        "technologies": "Moment.js, jQuery, Third Party APIs"
+    },
 ]
