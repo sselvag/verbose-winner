@@ -16,3 +16,7 @@
 
 Link to Deployed Application: https://sselvag.github.io/verbose-winner/
 
+The following screenshot displays the homepage of the deployed application.
+![Screen Shot 2022-07-28 at 7 26 37 AM](https://user-images.githubusercontent.com/64749332/181494345-6d8e67f8-0540-426a-bfc9-270910d310a1.png)
+
+
